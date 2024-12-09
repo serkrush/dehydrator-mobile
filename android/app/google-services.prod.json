@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343628266929",
+    "project_id": "dehydrator-app",
+    "storage_bucket": "dehydrator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343628266929:android:91bc024f36863e66b15190",
+        "android_client_info": {
+          "package_name": "com.dehydratormobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSaat7QrwZIMttwk_6oEFYi1ktUa_8qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1098470485769",
+    "project_id": "dehydrator-app-dev",
+    "storage_bucket": "dehydrator-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098470485769:android:0ec1ef033a232c8344edd8",
+        "android_client_info": {
+          "package_name": "com.dehydratormobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098470485769-vtk5128bjja3jqe1td4qcmok8bbn0cko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dehydratormobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1098470485769-52bqb43uk9m5peknvprgpek337vb7l84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF55QtdPgjyokOmosWHOlmaeF0EYEfzvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098470485769-52bqb43uk9m5peknvprgpek337vb7l84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1098470485769-di1o9n8vqquv9d2stf92o6as9ikttv57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dehydratormobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
